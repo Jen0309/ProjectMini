@@ -1,0 +1,38 @@
+# PHP
+/vendor/
+/composer.lock
+
+# Environment files
+.env
+.env.*
+
+# MySQL dumps
+*.sql
+
+# Node modules (if any front-end code)
+/node_modules/
+
+# VS Code settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Logs
+*.log
+
+# Coverage reports
+coverage/
+
+# CI/CD
+.github/workflows/*.secrets
+
+# PowerBI Desktop files
+*.pbix
+
+# Ignore IDE files
+.idea/
+*.iml
+
+# Misc
+*.swp
