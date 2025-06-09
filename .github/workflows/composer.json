@@ -1,0 +1,7 @@
+{
+    "name": "projectmini/project",
+    "description": "A ProjectMini application",
+    "require": {
+        "php": ">=7.4"
+    }
+}
